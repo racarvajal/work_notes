@@ -1,0 +1,40 @@
+References for redshifts from 268 z>6 QSOs in the MILLIQUAS catalog.
+
+REQ4  : Reionization-Era quasars, Yang J. et al., 2019,AJ,157,236
+VDES  : VISTA Dark Energy QSOs, Reed S.L. et al., 2017,MNRAS,468,4702
+VDES2 : more VHS-DES quasars, Reed S.L. et al., 2019,MNRAS,487,1874
+DES   : Dark Energy hi-z, Reed S.L. et al., 2015,MNRAS,454,3952
+VAHIZ : VST ATLAS hi-z, Carnall A.C. et al., 2015,MNRAS,451,16
+ALMA  : ALMA hi-z, Roberto Decarli R. et al., 2018,ApJ,854,97
+1933  : 2013ApJ...779...24V Venemans B.P.,Findlay J.R.,Sutherland W.J. et al, 2013, ApJ 779,24 (VIKING hi-z)
+PS1   : PAN-STARRS1 hi-z, Banados E. et al., 2016,ApJS,227,11
+PS1MAZ: Mazzucchelli C. et al., 2017,ApJ,849,91
+NBCKv3: NBCKDE v3, Richards G.T. et al., 2015,ApJS,219,39
+2049  : 2007AJ....134.2435W Willott C.J.,Delorme P.,Omont A. et al., 2007, AJ 134,2435
+2051  : 2010AJ....139..906W Willott C.J.,Delorme P.,Reyle C. et al, 2010, AJ 139,906
+z7.02 : lensed quasar z=7.02, Wang F. et al., 2018,ApJ,869L,9
+DUz6  : DESI & UKIRT hi-z, Wang F. et al., 2019,ApJ,884,30
+VAHIZ2: bright z>6 QSOs, Chehade B. et al., 2018,MNRAS,478,1649
+PSO   : PAN-STARRS z-dropouts, Venemans B.P. et al., 2015,ApJ,801L,11
+SHELQS: SHELLQS hi-z, Matsuoka Y. et al., 2018,ApJS,237,5
+SHELLQ: Subaru hi-z, Matsuoka Y. et al., 2018,PASJ,70S,35
+2052  : 2010AJ....140..546W Willott C.J.,Albert L.,Arzoumanian D. et al, 2010, AJ 140,546 (hiz6)
+2050  : 2009AJ....137.3541W Willott C.J.,Delorme P.,Reyle C. et al., 2009, AJ 137,3541
+DUHIZ : DECaLS-UKIRT hi-z, Wang F. et al., 2017,ApJ,839,27
+SHELQ3: Subaru hi-z, Matsuoka Y. et al., 2019,ApJ,883,183
+0924  : 2008AJ....135.1057J Jiang L.,Fan X.,Annis J. et al., 2008, AJ 135,1057
+RBS   : Laporte N. et al., 2017,ApJ,851,40
+1144  : 2004A&A...420..889M Maiolino R.,Oliva E.,Ghinassi F. et al., 2004, A&A 420,889
+DR14Q : SDSS-DR14Q, Paris I. et al., 2018,A&A,613A,51, data at http://data.sdss.org/sas/dr14/eboss/qso/DR14Q
+1998  : ................... Warren S.J., 2015, in preparation
+1318  : 2011Natur.474..616M Mortlock D.,Warren S.J.,Venemans B.P. et al, 2011, Natur 474,616 (ULAS hi-z)
+HIZ7.5: QSO z=7.5, Bañados E. et al., 2018,Natur,553,473
+1317  : 2009A&A...505...97M Mortlock D.J.,Patel M.,Warren S.J. et al., 2009, A&A 505,97
+OVRLAP: SDSS overlap hi-z QSOs, Jiang L. et al., 2015,AJ,149,188
+ULTRA : Ultraluminous hi-z, Wu, X.-B. et al., 2015,Nature,518,512
+SDSSHI: SDSS hi-z, Jiang L. et al., 2016,ApJ,833,222
+0589  : 2004AJ....128..515F Fan X.,Hennawi J.-F.,Richards G.T. et al., 2004, AJ 128,515
+0590  : 2006AJ....131.1203F Fan X.,Strauss M.A.,Richards G.T. et al., 2006, AJ 131,1203
+1243  : 2006ApJ...652..157M McGreer I.D.,Becker R.H.,Helfand D.J.,White R.L., 2006, ApJ 652,157
+PS1hiz: Tang, Ji-Jia et al., 2017,MNRAS,466,4568
+
