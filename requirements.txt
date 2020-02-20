@@ -1,3 +1,6 @@
 numpy
 matplotlib
 astropy
+nodejs
+ipympl
+jupyterlab
