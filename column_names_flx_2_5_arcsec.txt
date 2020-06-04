@@ -1,0 +1,1663 @@
+MAIN_ID_x
+RA_d
+DEC_d
+Z_VALUE
+FLUX_B
+FLUX_ERROR_B
+FLUX_V
+FLUX_ERROR_V
+FLUX_R
+FLUX_ERROR_R
+FLUX_I
+FLUX_ERROR_I
+FLUX_J
+FLUX_ERROR_J
+FLUX_K
+FLUX_ERROR_K
+INDEX
+CAT_NAME
+COORD_x
+Z_OWN
+Z_OWN_ERR
+L_20CM
+L_20CM_ERR
+L_20CM_UP_LIM
+L_250GHZ
+L_250GHZ_ERR
+F_20CM
+F_20CM_ERR
+F_250GHZ
+F_250GHZ_ERR
+MASS_1450
+COORD_y
+MAIN_ID_y
+Flux Density u (SDSS PSF) AB
+NED Uncertainty u (SDSS PSF) AB
+Flux Density g (SDSS PSF) AB
+NED Uncertainty g (SDSS PSF) AB
+Flux Density r (SDSS PSF) AB
+NED Uncertainty r (SDSS PSF) AB
+Flux Density i (SDSS PSF) AB
+NED Uncertainty i (SDSS PSF) AB
+Flux Density z (SDSS PSF) AB
+NED Uncertainty z (SDSS PSF) AB
+Flux Density W1 (WISE)
+NED Uncertainty W1 (WISE)
+Flux Density W2 (WISE)
+NED Uncertainty W2 (WISE)
+Flux Density W3 (WISE)
+NED Uncertainty W3 (WISE)
+Flux Density W4 (WISE)
+NED Uncertainty W4 (WISE)
+Flux Density FUV (GALEX) AB
+NED Uncertainty FUV (GALEX) AB
+Flux Density NUV (GALEX) AB
+NED Uncertainty NUV (GALEX) AB
+Flux Density 1.4GHz
+NED Uncertainty 1.4GHz
+Flux Density u (SDSS CModel) AB
+NED Uncertainty u (SDSS CModel) AB
+Flux Density u (SDSS Model) AB
+NED Uncertainty u (SDSS Model) AB
+Flux Density g (SDSS CModel) AB
+NED Uncertainty g (SDSS CModel) AB
+Flux Density g (SDSS Model) AB
+NED Uncertainty g (SDSS Model) AB
+Flux Density r (SDSS CModel) AB
+NED Uncertainty r (SDSS CModel) AB
+Flux Density r (SDSS Model) AB
+NED Uncertainty r (SDSS Model) AB
+Flux Density i (SDSS CModel) AB
+NED Uncertainty i (SDSS CModel) AB
+Flux Density i (SDSS Model) AB
+NED Uncertainty i (SDSS Model) AB
+Flux Density z (SDSS CModel) AB
+NED Uncertainty z (SDSS CModel) AB
+Flux Density z (SDSS Model) AB
+NED Uncertainty z (SDSS Model) AB
+Flux Density 0.1-2.4 keV (ROSAT)
+NED Uncertainty 0.1-2.4 keV (ROSAT)
+Flux Density R
+NED Uncertainty R
+Flux Density J (2MASS/FLWO)
+NED Uncertainty J (2MASS/FLWO)
+Flux Density H (2MASS/FLWO)
+NED Uncertainty H (2MASS/FLWO)
+Flux Density K_s (2MASS/FLWO)
+NED Uncertainty K_s (2MASS/FLWO)
+Flux Density 15 GHz (OVRO)
+NED Uncertainty 15 GHz (OVRO)
+Flux Density 8.4 GHz (VLA)
+NED Uncertainty 8.4 GHz (VLA)
+Flux Density 5 GHz (VLBA)
+NED Uncertainty 5 GHz (VLBA)
+Flux Density 5 GHz (VLA)
+NED Uncertainty 5 GHz (VLA)
+Flux Density 4.85 GHz
+NED Uncertainty 4.85 GHz
+Flux Density 4830 MHz (NRAO)
+NED Uncertainty 4830 MHz (NRAO)
+Flux Density 4775 MHz (NRAO)
+NED Uncertainty 4775 MHz (NRAO)
+Flux Density 1.40 GHz
+NED Uncertainty 1.40 GHz
+Flux Density 365 MHz (Texas)
+NED Uncertainty 365 MHz (Texas)
+Flux Density 160 MHz
+NED Uncertainty 160 MHz
+Flux Density 80 MHz
+NED Uncertainty 80 MHz
+Flux Density 74 MHz (VLA)
+NED Uncertainty 74 MHz (VLA)
+Flux Density 100 MeV-100 GeV LAT
+NED Uncertainty 100 MeV-100 GeV LAT
+Flux Density 0.1-100 GeV (Fermi)
+NED Uncertainty 0.1-100 GeV (Fermi)
+Flux Density 3.4 microns (WISE)
+NED Uncertainty 3.4 microns (WISE)
+Flux Density 4.6 microns (WISE)
+NED Uncertainty 4.6 microns (WISE)
+Flux Density 12 microns (WISE)
+NED Uncertainty 12 microns (WISE)
+Flux Density 22 microns (WISE)
+NED Uncertainty 22 microns (WISE)
+Flux Density 8.6 GHz (VLBI)
+NED Uncertainty 8.6 GHz (VLBI)
+Flux Density 8.4 GHz (VLBI)
+NED Uncertainty 8.4 GHz (VLBI)
+Flux Density 2.3 GHz (VLBI)
+NED Uncertainty 2.3 GHz (VLBI)
+Flux Density 1381 MHz (WSRT)
+NED Uncertainty 1381 MHz (WSRT)
+Flux Density 408 MHz
+NED Uncertainty 408 MHz
+Flux Density 1700 A (SDSS)
+NED Uncertainty 1700 A (SDSS)
+Flux Density 4.5 microns (IRAC)
+NED Uncertainty 4.5 microns (IRAC)
+Flux Density 1.4 GHz (VLA)
+NED Uncertainty 1.4 GHz (VLA)
+Flux Density u (SDSS Petrosian)AB
+NED Uncertainty u (SDSS Petrosian)AB
+Flux Density g (SDSS Petrosian)AB
+NED Uncertainty g (SDSS Petrosian)AB
+Flux Density r (SDSS Petrosian)AB
+NED Uncertainty r (SDSS Petrosian)AB
+Flux Density i (SDSS Petrosian)AB
+NED Uncertainty i (SDSS Petrosian)AB
+Flux Density z (SDSS Petrosian)AB
+NED Uncertainty z (SDSS Petrosian)AB
+Flux Density 3.6 microns (IRAC)
+NED Uncertainty 3.6 microns (IRAC)
+Flux Density 5.8 microns (IRAC)
+NED Uncertainty 5.8 microns (IRAC)
+Flux Density R Johnson (Palomar)
+NED Uncertainty R Johnson (Palomar)
+Flux Density 5000 MHz
+NED Uncertainty 5000 MHz
+Flux Density 2700 MHz
+NED Uncertainty 2700 MHz
+Flux Density 178 MHz
+NED Uncertainty 178 MHz
+Flux Density 24 microns (MIPS)
+NED Uncertainty 24 microns (MIPS)
+Flux Density 22 GHz (VERA)
+NED Uncertainty 22 GHz (VERA)
+Flux Density 1.4 GHz (VLBI)
+NED Uncertainty 1.4 GHz (VLBI)
+Flux Density 8.0 microns (IRAC)
+NED Uncertainty 8.0 microns (IRAC)
+Flux Density I (HST)
+NED Uncertainty I (HST)
+Flux Density FUV (GALEX)
+NED Uncertainty FUV (GALEX)
+Flux Density NUV (GALEX)
+NED Uncertainty NUV (GALEX)
+Flux Density 8.6 GHz (VLBA)
+NED Uncertainty 8.6 GHz (VLBA)
+Flux Density 2.3 GHz (VLBA)
+NED Uncertainty 2.3 GHz (VLBA)
+Flux Density 1410 MHz
+NED Uncertainty 1410 MHz
+Flux Density 151 MHz
+NED Uncertainty 151 MHz
+Flux Density 2-10 keV (BeppoSAX)
+NED Uncertainty 2-10 keV (BeppoSAX)
+Flux Density 4-8 keV (BeppoSAX)
+NED Uncertainty 4-8 keV (BeppoSAX)
+Flux Density 1 keV
+NED Uncertainty 1 keV
+Flux Density R (NOT)
+NED Uncertainty R (NOT)
+Flux Density J (2MASS)
+NED Uncertainty J (2MASS)
+Flux Density H (2MASS)
+NED Uncertainty H (2MASS)
+Flux Density K_s (2MASS)
+NED Uncertainty K_s (2MASS)
+Flux Density 8.4 GHz (VLBA)
+NED Uncertainty 8.4 GHz (VLBA)
+Flux Density 2.2 GHz (VLBA)
+NED Uncertainty 2.2 GHz (VLBA)
+Flux Density K (UKIRT)
+NED Uncertainty K (UKIRT)
+Flux Density 7.7 microns (IRS)
+NED Uncertainty 7.7 microns (IRS)
+Flux Density 11.3 microns (IRS)
+NED Uncertainty 11.3 microns (IRS)
+Flux Density 70 microns
+NED Uncertainty 70 microns
+Flux Density 160 microns
+NED Uncertainty 160 microns
+Flux Density 450 microns (SCUBA)
+NED Uncertainty 450 microns (SCUBA)
+Flux Density 850 microns (SCUBA)
+NED Uncertainty 850 microns (SCUBA)
+Flux Density 1.25 mm (MAMBO)
+NED Uncertainty 1.25 mm (MAMBO)
+Flux Density CO(2-1) line (PdBI)
+NED Uncertainty CO(2-1) line (PdBI)
+Flux Density 14900 MHz
+NED Uncertainty 14900 MHz
+Flux Density 10700 MHz
+NED Uncertainty 10700 MHz
+Flux Density 10.7 GHz (NRAO)
+NED Uncertainty 10.7 GHz (NRAO)
+Flux Density 10.45 GHz Effelsberg
+NED Uncertainty 10.45 GHz Effelsberg
+Flux Density 8.35 GHz Effelsberg
+NED Uncertainty 8.35 GHz Effelsberg
+Flux Density 4.85 GHz Effelsberg
+NED Uncertainty 4.85 GHz Effelsberg
+Flux Density 2695 MHz
+NED Uncertainty 2695 MHz
+Flux Density 2.64 GHz Effelsberg
+NED Uncertainty 2.64 GHz Effelsberg
+Flux Density 1400 MHz
+NED Uncertainty 1400 MHz
+Flux Density 1400 MHz (NRAO)
+NED Uncertainty 1400 MHz (NRAO)
+Flux Density 750 MHz
+NED Uncertainty 750 MHz
+Flux Density 750 MHz (NRAO)
+NED Uncertainty 750 MHz (NRAO)
+Flux Density 635 MHz
+NED Uncertainty 635 MHz
+Flux Density 86 MHz
+NED Uncertainty 86 MHz
+Flux Density 38 MHz
+NED Uncertainty 38 MHz
+Flux Density 26.3 MHz
+NED Uncertainty 26.3 MHz
+Flux Density 22 MHz (DRAO)
+NED Uncertainty 22 MHz (DRAO)
+Flux Density 22.25 MHz
+NED Uncertainty 22.25 MHz
+Flux Density J_14arcsec (2MASS)
+NED Uncertainty J_14arcsec (2MASS)
+Flux Density J
+NED Uncertainty J
+Flux Density H_14arcsec (2MASS)
+NED Uncertainty H_14arcsec (2MASS)
+Flux Density H
+NED Uncertainty H
+Flux Density K_s
+NED Uncertainty K_s
+Flux Density K_s_14arcsec (2MASS)
+NED Uncertainty K_s_14arcsec (2MASS)
+Flux Density 103a-E (POSS-I E)
+NED Uncertainty 103a-E (POSS-I E)
+Flux Density 90 GHz (NRAO)
+NED Uncertainty 90 GHz (NRAO)
+Flux Density 4.9 GHz (VLA)
+NED Uncertainty 4.9 GHz (VLA)
+Flux Density B (USNO)
+NED Uncertainty B (USNO)
+Flux Density R (USNO)
+NED Uncertainty R (USNO)
+Flux Density 5 GHz (VLBI)
+NED Uncertainty 5 GHz (VLBI)
+Flux Density 1.6 GHz (VLBI)
+NED Uncertainty 1.6 GHz (VLBI)
+Flux Density 6.4 keV Fe K{alpha}
+NED Uncertainty 6.4 keV Fe K{alpha}
+Flux Density 2-10 keV (XMM)
+NED Uncertainty 2-10 keV (XMM)
+Flux Density 2-10 keV (ASCA)
+NED Uncertainty 2-10 keV (ASCA)
+Flux Density 0.3-10 keV (XMM)
+NED Uncertainty 0.3-10 keV (XMM)
+Flux Density 0.5-10 keV (ASCA)
+NED Uncertainty 0.5-10 keV (ASCA)
+Flux Density 4 keV (Einstein)
+NED Uncertainty 4 keV (Einstein)
+Flux Density 0.7-7 keV (ASCA)
+NED Uncertainty 0.7-7 keV (ASCA)
+Flux Density 2 keV
+NED Uncertainty 2 keV
+Flux Density 0.3-3.5 keV Einstein
+NED Uncertainty 0.3-3.5 keV Einstein
+Flux Density 0.7-2 keV (ASCA)
+NED Uncertainty 0.7-2 keV (ASCA)
+Flux Density 0.5-2 keV (XMM)
+NED Uncertainty 0.5-2 keV (XMM)
+Flux Density 0.2-2 keV (Swift)
+NED Uncertainty 0.2-2 keV (Swift)
+Flux Density 1 keV (ROSAT)
+NED Uncertainty 1 keV (ROSAT)
+Flux Density 1 keV (Einstein)
+NED Uncertainty 1 keV (Einstein)
+Flux Density 1000 A (FUSE)
+NED Uncertainty 1000 A (FUSE)
+Flux Density 1030 A (FUSE)
+NED Uncertainty 1030 A (FUSE)
+Flux Density 1031 A (FUSE)
+NED Uncertainty 1031 A (FUSE)
+Flux Density Ly{alpha}
+NED Uncertainty Ly{alpha}
+Flux Density N V 1240
+NED Uncertainty N V 1240
+Flux Density O I 1304 (HST)
+NED Uncertainty O I 1304 (HST)
+Flux Density Si IV + O IV]
+NED Uncertainty Si IV + O IV]
+Flux Density C IV 1549
+NED Uncertainty C IV 1549
+Flux Density C IV 1549 (HST)
+NED Uncertainty C IV 1549 (HST)
+Flux Density 1549 A
+NED Uncertainty 1549 A
+Flux Density Si III] 1892
+NED Uncertainty Si III] 1892
+Flux Density C III] 1909
+NED Uncertainty C III] 1909
+Flux Density UVW2 (XMM-OM)
+NED Uncertainty UVW2 (XMM-OM)
+Flux Density 2500 A
+NED Uncertainty 2500 A
+Flux Density Mg II
+NED Uncertainty Mg II
+Flux Density UVW1 (XMM-OM)
+NED Uncertainty UVW1 (XMM-OM)
+Flux Density B (Johnson)
+NED Uncertainty B (Johnson)
+Flux Density B Johnson (FLWO)
+NED Uncertainty B Johnson (FLWO)
+Flux Density B (LCO)
+NED Uncertainty B (LCO)
+Flux Density B (XMM-OM)
+NED Uncertainty B (XMM-OM)
+Flux Density H{beta}
+NED Uncertainty H{beta}
+Flux Density 4861 A
+NED Uncertainty 4861 A
+Flux Density [O III] 5007
+NED Uncertainty [O III] 5007
+Flux Density V (HST/WFPC2)
+NED Uncertainty V (HST/WFPC2)
+Flux Density V (Johnson)
+NED Uncertainty V (Johnson)
+Flux Density V
+NED Uncertainty V
+Flux Density V Johnson (FLWO)
+NED Uncertainty V Johnson (FLWO)
+Flux Density Na I + He I
+NED Uncertainty Na I + He I
+Flux Density F606W (HST) AB
+NED Uncertainty F606W (HST) AB
+Flux Density R (LCO)
+NED Uncertainty R (LCO)
+Flux Density H{alpha}
+NED Uncertainty H{alpha}
+Flux Density R (Johnson)
+NED Uncertainty R (Johnson)
+Flux Density R Johnson (FLWO)
+NED Uncertainty R Johnson (FLWO)
+Flux Density O I 8446 (KPNO)
+NED Uncertainty O I 8446 (KPNO)
+Flux Density I Johnson (FLWO)
+NED Uncertainty I Johnson (FLWO)
+Flux Density I (Johnson)
+NED Uncertainty I (Johnson)
+Flux Density O I 11287 (KPNO)
+NED Uncertainty O I 11287 (KPNO)
+Flux Density J (KPNO)
+NED Uncertainty J (KPNO)
+Flux Density H (GeminiN)
+NED Uncertainty H (GeminiN)
+Flux Density K
+NED Uncertainty K
+Flux Density N34
+NED Uncertainty N34
+Flux Density 3.7 microns
+NED Uncertainty 3.7 microns
+Flux Density L'
+NED Uncertainty L'
+Flux Density 4.8 microns (ISO)
+NED Uncertainty 4.8 microns (ISO)
+Flux Density 6 microns (Spitzer)
+NED Uncertainty 6 microns (Spitzer)
+Flux Density PAH 6.2 microns IRS
+NED Uncertainty PAH 6.2 microns IRS
+Flux Density 6.7 microns (IRS)
+NED Uncertainty 6.7 microns (IRS)
+Flux Density 7.3 microns (ISO)
+NED Uncertainty 7.3 microns (ISO)
+Flux Density PAH 7.7 microns IRS
+NED Uncertainty PAH 7.7 microns IRS
+Flux Density N
+NED Uncertainty N
+Flux Density 12.0 microns (ISO)
+NED Uncertainty 12.0 microns (ISO)
+Flux Density [Ne II] (IRS)
+NED Uncertainty [Ne II] (IRS)
+Flux Density [Ne V] (IRS)
+NED Uncertainty [Ne V] (IRS)
+Flux Density 15 microns (Spitzer)
+NED Uncertainty 15 microns (Spitzer)
+Flux Density 20 microns (Spitzer)
+NED Uncertainty 20 microns (Spitzer)
+Flux Density Q
+NED Uncertainty Q
+Flux Density 25 microns (ISO)
+NED Uncertainty 25 microns (ISO)
+Flux Density 25 microns (Spitzer)
+NED Uncertainty 25 microns (Spitzer)
+Flux Density [O IV] (IRS)
+NED Uncertainty [O IV] (IRS)
+Flux Density 30 microns (Spitzer)
+NED Uncertainty 30 microns (Spitzer)
+Flux Density 60 microns (ISO)
+NED Uncertainty 60 microns (ISO)
+Flux Density 70 microns (MIPS)
+NED Uncertainty 70 microns (MIPS)
+Flux Density 100 microns (ISO)
+NED Uncertainty 100 microns (ISO)
+Flux Density 160 microns (MIPS)
+NED Uncertainty 160 microns (MIPS)
+Flux Density 150 microns (ISO)
+NED Uncertainty 150 microns (ISO)
+Flux Density 200 microns (ISO)
+NED Uncertainty 200 microns (ISO)
+Flux Density 1200 microns (MAMBO)
+NED Uncertainty 1200 microns (MAMBO)
+Flux Density 14.9 GHz
+NED Uncertainty 14.9 GHz
+Flux Density 8.48 GHz
+NED Uncertainty 8.48 GHz
+Flux Density 4.89 GHz
+NED Uncertainty 4.89 GHz
+Flux Density 1.49 GHz
+NED Uncertainty 1.49 GHz
+Flux Density 0.2-2 keV (ROSAT)
+NED Uncertainty 0.2-2 keV (ROSAT)
+Flux Density 12 microns (IRAS)
+NED Uncertainty 12 microns (IRAS)
+Flux Density 25 microns (IRAS)
+NED Uncertainty 25 microns (IRAS)
+Flux Density 60 microns (IRAS)
+NED Uncertainty 60 microns (IRAS)
+Flux Density 100 microns (IRAS)
+NED Uncertainty 100 microns (IRAS)
+Flux Density 229 GHz (IRAM)
+NED Uncertainty 229 GHz (IRAM)
+Flux Density 94 GHz (WMAP)
+NED Uncertainty 94 GHz (WMAP)
+Flux Density 86 GHz (IRAM)
+NED Uncertainty 86 GHz (IRAM)
+Flux Density 61 GHz (WMAP)
+NED Uncertainty 61 GHz (WMAP)
+Flux Density V (WMAP)
+NED Uncertainty V (WMAP)
+Flux Density 43 GHz (VLBA)
+NED Uncertainty 43 GHz (VLBA)
+Flux Density 41 GHz (WMAP)
+NED Uncertainty 41 GHz (WMAP)
+Flux Density Q (WMAP)
+NED Uncertainty Q (WMAP)
+Flux Density 37 GHz (MRO)
+NED Uncertainty 37 GHz (MRO)
+Flux Density Ka (WMAP)
+NED Uncertainty Ka (WMAP)
+Flux Density 24 GHz (VLBA)
+NED Uncertainty 24 GHz (VLBA)
+Flux Density K (WMAP)
+NED Uncertainty K (WMAP)
+Flux Density 23 GHz (WMAP)
+NED Uncertainty 23 GHz (WMAP)
+Flux Density 15 GHz (VLBA)
+NED Uncertainty 15 GHz (VLBA)
+Flux Density 151 MHz (VLBI)
+NED Uncertainty 151 MHz (VLBI)
+Flux Density 8.5 GHz (VLA)
+NED Uncertainty 8.5 GHz (VLA)
+Flux Density 2-10 keV (Chandra)
+NED Uncertainty 2-10 keV (Chandra)
+Flux Density 2-8 keV (Chandra)
+NED Uncertainty 2-8 keV (Chandra)
+Flux Density 0.5-8 keV (Chandra)
+NED Uncertainty 0.5-8 keV (Chandra)
+Flux Density 0.3-8 keV (Chandra)
+NED Uncertainty 0.3-8 keV (Chandra)
+Flux Density 0.5-2 keV (Chandra)
+NED Uncertainty 0.5-2 keV (Chandra)
+Flux Density 0.3-2 keV (Chandra)
+NED Uncertainty 0.3-2 keV (Chandra)
+Flux Density 28.5 GHz (BIMA)
+NED Uncertainty 28.5 GHz (BIMA)
+Flux Density 74 MHz
+NED Uncertainty 74 MHz
+Flux Density 0.2-10 keV (XMM)
+NED Uncertainty 0.2-10 keV (XMM)
+Flux Density 0.35-8 keV (Chandra)
+NED Uncertainty 0.35-8 keV (Chandra)
+Flux Density 0.3-8 keV (XMM)
+NED Uncertainty 0.3-8 keV (XMM)
+Flux Density 0.5-4.5 keV (XMM)
+NED Uncertainty 0.5-4.5 keV (XMM)
+Flux Density 8085 MHz
+NED Uncertainty 8085 MHz
+Flux Density 103a-O (POSS-I O)
+NED Uncertainty 103a-O (POSS-I O)
+Flux Density UVW2 (Swift) AB
+NED Uncertainty UVW2 (Swift) AB
+Flux Density UVM2 (Swift) AB
+NED Uncertainty UVM2 (Swift) AB
+Flux Density UVW1 (Swift) AB
+NED Uncertainty UVW1 (Swift) AB
+Flux Density U (Swift) AB
+NED Uncertainty U (Swift) AB
+Flux Density B (Swift) AB
+NED Uncertainty B (Swift) AB
+Flux Density g' (GROND) AB
+NED Uncertainty g' (GROND) AB
+Flux Density V (Swift) AB
+NED Uncertainty V (Swift) AB
+Flux Density r' (GROND) AB
+NED Uncertainty r' (GROND) AB
+Flux Density i' (GROND) AB
+NED Uncertainty i' (GROND) AB
+Flux Density z' (GROND) AB
+NED Uncertainty z' (GROND) AB
+Flux Density J (GROND) AB
+NED Uncertainty J (GROND) AB
+Flux Density H (GROND) AB
+NED Uncertainty H (GROND) AB
+Flux Density K_s (GROND) AB
+NED Uncertainty K_s (GROND) AB
+Flux Density 4.8 GHz (RATAN-600)
+NED Uncertainty 4.8 GHz (RATAN-600)
+Flux Density I (NOT)
+NED Uncertainty I (NOT)
+Flux Density 1.3 mm (PdBI)
+NED Uncertainty 1.3 mm (PdBI)
+Flux Density 3 mm (PdBI)
+NED Uncertainty 3 mm (PdBI)
+Flux Density 4.5-7.5 keV (XMM)
+NED Uncertainty 4.5-7.5 keV (XMM)
+Flux Density 0.5-10 keV (XMM)
+NED Uncertainty 0.5-10 keV (XMM)
+Flux Density 0.1-2.4 keV (Fermi)
+NED Uncertainty 0.1-2.4 keV (Fermi)
+Flux Density 0.15-3.5 keV (IPC)
+NED Uncertainty 0.15-3.5 keV (IPC)
+Flux Density 3 mm (VLBI)
+NED Uncertainty 3 mm (VLBI)
+Flux Density 90000 MHz
+NED Uncertainty 90000 MHz
+Flux Density 37 GHz
+NED Uncertainty 37 GHz
+Flux Density 33 GHz (WMAP)
+NED Uncertainty 33 GHz (WMAP)
+Flux Density 31400 MHz
+NED Uncertainty 31400 MHz
+Flux Density 22 GHz (VLBA)
+NED Uncertainty 22 GHz (VLBA)
+Flux Density 22 GHz
+NED Uncertainty 22 GHz
+Flux Density 22185 MHz
+NED Uncertainty 22185 MHz
+Flux Density 15064 MHz
+NED Uncertainty 15064 MHz
+Flux Density 15.0 GHz (VLBI)
+NED Uncertainty 15.0 GHz (VLBI)
+Flux Density 10695 MHz
+NED Uncertainty 10695 MHz
+Flux Density 4885 MHz
+NED Uncertainty 4885 MHz
+Flux Density 5 GHz
+NED Uncertainty 5 GHz
+Flux Density 4585 MHz
+NED Uncertainty 4585 MHz
+Flux Density 1484 MHz
+NED Uncertainty 1484 MHz
+Flux Density 1379 MHz
+NED Uncertainty 1379 MHz
+Flux Density 430 MHz
+NED Uncertainty 430 MHz
+Flux Density 365 MHz
+NED Uncertainty 365 MHz
+Flux Density 318 MHz
+NED Uncertainty 318 MHz
+Flux Density 1.4 GHz (NVSS)
+NED Uncertainty 1.4 GHz (NVSS)
+Flux Density 1.4 GHz (FIRST)
+NED Uncertainty 1.4 GHz (FIRST)
+Flux Density 150 MHz (GMRT)
+NED Uncertainty 150 MHz (GMRT)
+Flux Density 14-195 keV (Swift)
+NED Uncertainty 14-195 keV (Swift)
+Flux Density 15-150 keV (Swift)
+NED Uncertainty 15-150 keV (Swift)
+Flux Density 15-55 keV (Swift)
+NED Uncertainty 15-55 keV (Swift)
+Flux Density 2-10 keV (Swift)
+NED Uncertainty 2-10 keV (Swift)
+Flux Density 0.3-10 keV (Swift)
+NED Uncertainty 0.3-10 keV (Swift)
+Flux Density 0.5-2 keV (Swift)
+NED Uncertainty 0.5-2 keV (Swift)
+Flux Density 0.1-2.4 keV (Swift)
+NED Uncertainty 0.1-2.4 keV (Swift)
+Flux Density UVW2 (Swift UVOT)
+NED Uncertainty UVW2 (Swift UVOT)
+Flux Density UVM2 (Swift UVOT)
+NED Uncertainty UVM2 (Swift UVOT)
+Flux Density UVW1 (Swift UVOT)
+NED Uncertainty UVW1 (Swift UVOT)
+Flux Density U (Swift UVOT)
+NED Uncertainty U (Swift UVOT)
+Flux Density B (Swift UVOT)
+NED Uncertainty B (Swift UVOT)
+Flux Density V (NOT)
+NED Uncertainty V (NOT)
+Flux Density V (Swift UVOT)
+NED Uncertainty V (Swift UVOT)
+Flux Density 43.340 GHz (VLA)
+NED Uncertainty 43.340 GHz (VLA)
+Flux Density 22.460 GHz (VLA)
+NED Uncertainty 22.460 GHz (VLA)
+Flux Density 14.940 GHz (VLA)
+NED Uncertainty 14.940 GHz (VLA)
+Flux Density 8.460 GHz (VLA)
+NED Uncertainty 8.460 GHz (VLA)
+Flux Density 8 GHz (GBI)
+NED Uncertainty 8 GHz (GBI)
+Flux Density 4.860 GHz (VLA)
+NED Uncertainty 4.860 GHz (VLA)
+Flux Density 2 GHz (GBI)
+NED Uncertainty 2 GHz (GBI)
+Flux Density 1.425 GHz (VLA)
+NED Uncertainty 1.425 GHz (VLA)
+Flux Density 34 GHz (VSA)
+NED Uncertainty 34 GHz (VSA)
+Flux Density 10.6 GHz Effelsberg
+NED Uncertainty 10.6 GHz Effelsberg
+Flux Density 3000 A
+NED Uncertainty 3000 A
+Flux Density 1658 MHz (EVN)
+NED Uncertainty 1658 MHz (EVN)
+Flux Density 1.4 GHz (ATA)
+NED Uncertainty 1.4 GHz (ATA)
+Flux Density G (AB)
+NED Uncertainty G (AB)
+Flux Density B (103a-O)
+NED Uncertainty B (103a-O)
+Flux Density H (Lick)
+NED Uncertainty H (Lick)
+Flux Density PAH 6.2 (Spitzer)
+NED Uncertainty PAH 6.2 (Spitzer)
+Flux Density PAH 7.7 (Spitzer)
+NED Uncertainty PAH 7.7 (Spitzer)
+Flux Density PAH 11.2 (Spitzer)
+NED Uncertainty PAH 11.2 (Spitzer)
+Flux Density 32 GHz (MPIfR)
+NED Uncertainty 32 GHz (MPIfR)
+Flux Density 10.45 GHz (MPIfR)
+NED Uncertainty 10.45 GHz (MPIfR)
+Flux Density 4.85 GHz (MPIfR)
+NED Uncertainty 4.85 GHz (MPIfR)
+Flux Density 33 GHz (VSA)
+NED Uncertainty 33 GHz (VSA)
+Flux Density 2.0-10 keV (XMM)
+NED Uncertainty 2.0-10 keV (XMM)
+Flux Density U (XMM-OM)
+NED Uncertainty U (XMM-OM)
+Flux Density V (XMM-OM)
+NED Uncertainty V (XMM-OM)
+Flux Density 143 GHz (Planck)
+NED Uncertainty 143 GHz (Planck)
+Flux Density 100 GHz (Planck)
+NED Uncertainty 100 GHz (Planck)
+Flux Density 44 GHz (Planck)
+NED Uncertainty 44 GHz (Planck)
+Flux Density 30 GHz (Planck)
+NED Uncertainty 30 GHz (Planck)
+Flux Density 0.3-3.5 keV (EO IPC)
+NED Uncertainty 0.3-3.5 keV (EO IPC)
+Flux Density 43 GHz (VLA)
+NED Uncertainty 43 GHz (VLA)
+Flux Density 22 GHz (VLA)
+NED Uncertainty 22 GHz (VLA)
+Flux Density 15.2 GHz (VLA)
+NED Uncertainty 15.2 GHz (VLA)
+Flux Density 4.8 GHz (VLA)
+NED Uncertainty 4.8 GHz (VLA)
+Flux Density 1.65 GHz (VLBA)
+NED Uncertainty 1.65 GHz (VLBA)
+Flux Density 8.4 GHz (EVLA)
+NED Uncertainty 8.4 GHz (EVLA)
+Flux Density 4.9 GHz (EVLA)
+NED Uncertainty 4.9 GHz (EVLA)
+Flux Density 610 MHz (GMRT)
+NED Uncertainty 610 MHz (GMRT)
+Flux Density [Fe II] 4570 (SDSS)
+NED Uncertainty [Fe II] 4570 (SDSS)
+Flux Density H{beta} (SDSS)
+NED Uncertainty H{beta} (SDSS)
+Flux Density [O III] 5007 (SDSS)
+NED Uncertainty [O III] 5007 (SDSS)
+Flux Density 31 GHz (SZA)
+NED Uncertainty 31 GHz (SZA)
+Flux Density 4.86 GHz (VLA)
+NED Uncertainty 4.86 GHz (VLA)
+Flux Density 151 MHz (6C)
+NED Uncertainty 151 MHz (6C)
+Flux Density U Johnson
+NED Uncertainty U Johnson
+Flux Density B Johnson
+NED Uncertainty B Johnson
+Flux Density V Johnson
+NED Uncertainty V Johnson
+Flux Density J (UKIRT/IRCAM3)
+NED Uncertainty J (UKIRT/IRCAM3)
+Flux Density H (UKIRT/IRCAM3)
+NED Uncertainty H (UKIRT/IRCAM3)
+Flux Density K (UKIRT/IRCAM3)
+NED Uncertainty K (UKIRT/IRCAM3)
+Flux Density L' (UKIRT/IRCAM3)
+NED Uncertainty L' (UKIRT/IRCAM3)
+Flux Density 5 microns (ISO)
+NED Uncertainty 5 microns (ISO)
+Flux Density [S IV] 10.5 (IRS)
+NED Uncertainty [S IV] 10.5 (IRS)
+Flux Density 12 microns (ISOCAM)
+NED Uncertainty 12 microns (ISOCAM)
+Flux Density [Ne II] 12.8 (IRS)
+NED Uncertainty [Ne II] 12.8 (IRS)
+Flux Density 12.8 microns (ISO)
+NED Uncertainty 12.8 microns (ISO)
+Flux Density [Ne V] 14.3 (IRS)
+NED Uncertainty [Ne V] 14.3 (IRS)
+Flux Density [Ne V] 14.3 microns
+NED Uncertainty [Ne V] 14.3 microns
+Flux Density [Ne III] 15.5 (IRS)
+NED Uncertainty [Ne III] 15.5 (IRS)
+Flux Density [NeIII] 15.6 microns
+NED Uncertainty [NeIII] 15.6 microns
+Flux Density [S III] 18.7 (IRS)
+NED Uncertainty [S III] 18.7 (IRS)
+Flux Density 90 microns (ISO)
+NED Uncertainty 90 microns (ISO)
+Flux Density 170 microns (ISO)
+NED Uncertainty 170 microns (ISO)
+Flux Density 850 microns (JCMT)
+NED Uncertainty 850 microns (JCMT)
+Flux Density 1300 microns (IRAM)
+NED Uncertainty 1300 microns (IRAM)
+Flux Density 1.25 mm (IRAM)
+NED Uncertainty 1.25 mm (IRAM)
+Flux Density 230 GHz
+NED Uncertainty 230 GHz
+Flux Density 204.4 GHz (GBT)
+NED Uncertainty 204.4 GHz (GBT)
+Flux Density 136.2 GHz (GBT)
+NED Uncertainty 136.2 GHz (GBT)
+Flux Density 105.4 GHz (GBT)
+NED Uncertainty 105.4 GHz (GBT)
+Flux Density 90 GHz
+NED Uncertainty 90 GHz
+Flux Density 86.9 GHz (GBT)
+NED Uncertainty 86.9 GHz (GBT)
+Flux Density 16.1 GHz (AMI)
+NED Uncertainty 16.1 GHz (AMI)
+Flux Density 2.70 GHz Effelsberg
+NED Uncertainty 2.70 GHz Effelsberg
+Flux Density 1420.5 MHz (VLA)
+NED Uncertainty 1420.5 MHz (VLA)
+Flux Density 1.418 GHz
+NED Uncertainty 1.418 GHz
+Flux Density 609 MHz (VLBI)
+NED Uncertainty 609 MHz (VLBI)
+Flux Density 325 MHz (GMRT)
+NED Uncertainty 325 MHz (GMRT)
+Flux Density 235 MHz (GMRT)
+NED Uncertainty 235 MHz (GMRT)
+Flux Density 60 MHz
+NED Uncertainty 60 MHz
+Flux Density 10 MHz
+NED Uncertainty 10 MHz
+Flux Density 10 MHz (DRAO)
+NED Uncertainty 10 MHz (DRAO)
+Flux Density 15.2 GHz (RT)
+NED Uncertainty 15.2 GHz (RT)
+Flux Density 15.7 GHz (AMI)
+NED Uncertainty 15.7 GHz (AMI)
+Flux Density H (Mt. Lemmon)
+NED Uncertainty H (Mt. Lemmon)
+Flux Density K (Mt. Lemmon)
+NED Uncertainty K (Mt. Lemmon)
+Flux Density F555W (HST)
+NED Uncertainty F555W (HST)
+Flux Density F814W (HST)
+NED Uncertainty F814W (HST)
+Flux Density F160W (HST)
+NED Uncertainty F160W (HST)
+Flux Density F160W (HST/NIC2)
+NED Uncertainty F160W (HST/NIC2)
+Flux Density 0.2-10 keV (Swift)
+NED Uncertainty 0.2-10 keV (Swift)
+Flux Density 340 MHz (GMRT)
+NED Uncertainty 340 MHz (GMRT)
+Flux Density R (JKT)
+NED Uncertainty R (JKT)
+Flux Density I (JKT)
+NED Uncertainty I (JKT)
+Flux Density W (WMAP)
+NED Uncertainty W (WMAP)
+Flux Density 30 GHz (OCRA-p)
+NED Uncertainty 30 GHz (OCRA-p)
+Flux Density H_2 S(7) line (IRS)
+NED Uncertainty H_2 S(7) line (IRS)
+Flux Density 7.9 microns Spitzer
+NED Uncertainty 7.9 microns Spitzer
+Flux Density [Ar III] 8.99 (IRS)
+NED Uncertainty [Ar III] 8.99 (IRS)
+Flux Density H_2 S(3) line (IRS)
+NED Uncertainty H_2 S(3) line (IRS)
+Flux Density [S IV] 10.51 (IRS)
+NED Uncertainty [S IV] 10.51 (IRS)
+Flux Density PAH 11.3 (Spitzer)
+NED Uncertainty PAH 11.3 (Spitzer)
+Flux Density H_2 S(2) line (IRS)
+NED Uncertainty H_2 S(2) line (IRS)
+Flux Density HI 7-6 (IRS)
+NED Uncertainty HI 7-6 (IRS)
+Flux Density [Ne II] 12.81 (IRS)
+NED Uncertainty [Ne II] 12.81 (IRS)
+Flux Density [Cl II] 14.37 (IRS)
+NED Uncertainty [Cl II] 14.37 (IRS)
+Flux Density [Ne V] 14.32 (IRS)
+NED Uncertainty [Ne V] 14.32 (IRS)
+Flux Density [Ne III] 15.56 (IRS)
+NED Uncertainty [Ne III] 15.56 (IRS)
+Flux Density H_2 S(1) line (IRS)
+NED Uncertainty H_2 S(1) line (IRS)
+Flux Density [Fe II] 17.94 (IRS)
+NED Uncertainty [Fe II] 17.94 (IRS)
+Flux Density [S III] 18.71 (IRS)
+NED Uncertainty [S III] 18.71 (IRS)
+Flux Density [Ne V] 24.32 (IRS)
+NED Uncertainty [Ne V] 24.32 (IRS)
+Flux Density [O IV] 25.89 (IRS)
+NED Uncertainty [O IV] 25.89 (IRS)
+Flux Density [Fe II] 15.99 (IRS)
+NED Uncertainty [Fe II] 15.99 (IRS)
+Flux Density H_2 S(0) line (IRS)
+NED Uncertainty H_2 S(0) line (IRS)
+Flux Density 153 MHz (GMRT)
+NED Uncertainty 153 MHz (GMRT)
+Flux Density r (SDSS) AB
+NED Uncertainty r (SDSS) AB
+Flux Density 5 GHz (MERLIN)
+NED Uncertainty 5 GHz (MERLIN)
+Flux Density 767.04 MHz (GBT)
+NED Uncertainty 767.04 MHz (GBT)
+Flux Density i (SDSS)
+NED Uncertainty i (SDSS)
+Flux Density 2-7 keV (Chandra)
+NED Uncertainty 2-7 keV (Chandra)
+Flux Density 0.5-7 keV (Chandra)
+NED Uncertainty 0.5-7 keV (Chandra)
+Flux Density Mg II 2800 (SDSS)
+NED Uncertainty Mg II 2800 (SDSS)
+Flux Density [Mg II] 2800 (SDSS)
+NED Uncertainty [Mg II] 2800 (SDSS)
+Flux Density B_W (KPNO/MOSAIC)
+NED Uncertainty B_W (KPNO/MOSAIC)
+Flux Density R (KPNO/MOSAIC)
+NED Uncertainty R (KPNO/MOSAIC)
+Flux Density I (KPNO/MOSAIC)
+NED Uncertainty I (KPNO/MOSAIC)
+Flux Density K (KPNO/ONIS)
+NED Uncertainty K (KPNO/ONIS)
+Flux Density 5.5 microns Spitzer
+NED Uncertainty 5.5 microns Spitzer
+Flux Density 8 microns (Spitzer)
+NED Uncertainty 8 microns (Spitzer)
+Flux Density 15 microns Spitzer
+NED Uncertainty 15 microns Spitzer
+Flux Density 1.38 GHz (WSRT)
+NED Uncertainty 1.38 GHz (WSRT)
+Flux Density 3.1 GHz (ATA)
+NED Uncertainty 3.1 GHz (ATA)
+Flux Density 8.4 GHz
+NED Uncertainty 8.4 GHz
+Flux Density r (Hale)
+NED Uncertainty r (Hale)
+Flux Density 30 GHz (Torun)
+NED Uncertainty 30 GHz (Torun)
+Flux Density R (POSS)
+NED Uncertainty R (POSS)
+Flux Density 6 cm (VLBI)
+NED Uncertainty 6 cm (VLBI)
+Flux Density 111 MHZ (LPA)
+NED Uncertainty 111 MHZ (LPA)
+Flux Density 1.4 GHz (WSRT)
+NED Uncertainty 1.4 GHz (WSRT)
+Flux Density 1.4 GHz VLA B-array
+NED Uncertainty 1.4 GHz VLA B-array
+Flux Density 1.4 GHz VLA C-array
+NED Uncertainty 1.4 GHz VLA C-array
+Flux Density 1.4 GHz VLA A-array
+NED Uncertainty 1.4 GHz VLA A-array
+Flux Density 1.4 GHz VLA D-array
+NED Uncertainty 1.4 GHz VLA D-array
+Flux Density 408 MHz (MERLIN)
+NED Uncertainty 408 MHz (MERLIN)
+Flux Density 15 GHz (RT)
+NED Uncertainty 15 GHz (RT)
+Flux Density 1.7 GHz (VLBA)
+NED Uncertainty 1.7 GHz (VLBA)
+Flux Density EGRET (0.1-5 GeV)
+NED Uncertainty EGRET (0.1-5 GeV)
+Flux Density 870 microns
+NED Uncertainty 870 microns
+Flux Density 1300 microns
+NED Uncertainty 1300 microns
+Flux Density 226 GHz (NRAO)
+NED Uncertainty 226 GHz (NRAO)
+Flux Density 2 mm (PdBI)
+NED Uncertainty 2 mm (PdBI)
+Flux Density 86 GHz (VLBI)
+NED Uncertainty 86 GHz (VLBI)
+Flux Density 77 GHz (MRT)
+NED Uncertainty 77 GHz (MRT)
+Flux Density 70 GHz (Planck)
+NED Uncertainty 70 GHz (Planck)
+Flux Density 37 GHz (SEST)
+NED Uncertainty 37 GHz (SEST)
+Flux Density 22.2 GHz (VLBA)
+NED Uncertainty 22.2 GHz (VLBA)
+Flux Density 22 GHz (VLBI)
+NED Uncertainty 22 GHz (VLBI)
+Flux Density 4900 MHz
+NED Uncertainty 4900 MHz
+Flux Density 2263 MHz (WSRT)
+NED Uncertainty 2263 MHz (WSRT)
+Flux Density 785.80 MHz (GBT)
+NED Uncertainty 785.80 MHz (GBT)
+Flux Density 15 GHz (VLA)
+NED Uncertainty 15 GHz (VLA)
+Flux Density [O III] (SDSS)
+NED Uncertainty [O III] (SDSS)
+Flux Density H{alpha} (SDSS)
+NED Uncertainty H{alpha} (SDSS)
+Flux Density [N II] (SDSS)
+NED Uncertainty [N II] (SDSS)
+Flux Density 1.3 mm (IRAM)
+NED Uncertainty 1.3 mm (IRAM)
+Flux Density B (MUNICS)
+NED Uncertainty B (MUNICS)
+Flux Density V (MUNICS)
+NED Uncertainty V (MUNICS)
+Flux Density R (MUNICS)
+NED Uncertainty R (MUNICS)
+Flux Density I (MUNICS)
+NED Uncertainty I (MUNICS)
+Flux Density J (MUNICS)
+NED Uncertainty J (MUNICS)
+Flux Density K' (MUNICS)
+NED Uncertainty K' (MUNICS)
+Flux Density 3-9 keV (BeppoSAX)
+NED Uncertainty 3-9 keV (BeppoSAX)
+Flux Density 2.0-10.0 keV
+NED Uncertainty 2.0-10.0 keV
+Flux Density 0.5-2.5 keV Chandra
+NED Uncertainty 0.5-2.5 keV Chandra
+Flux Density 1 keV (Chandra)
+NED Uncertainty 1 keV (Chandra)
+Flux Density 1350 A (HST/FOS)
+NED Uncertainty 1350 A (HST/FOS)
+Flux Density log nu(Hz) 14.95
+NED Uncertainty log nu(Hz) 14.95
+Flux Density log nu(Hz) 14.90
+NED Uncertainty log nu(Hz) 14.90
+Flux Density log nu(Hz) 14.85
+NED Uncertainty log nu(Hz) 14.85
+Flux Density log nu(Hz) 14.80
+NED Uncertainty log nu(Hz) 14.80
+Flux Density 5100 A
+NED Uncertainty 5100 A
+Flux Density log nu(Hz) 14.75
+NED Uncertainty log nu(Hz) 14.75
+Flux Density V (AIT)
+NED Uncertainty V (AIT)
+Flux Density log nu(Hz) 14.70
+NED Uncertainty log nu(Hz) 14.70
+Flux Density R (Cousins)
+NED Uncertainty R (Cousins)
+Flux Density R (AIT)
+NED Uncertainty R (AIT)
+Flux Density log nu(Hz) 14.65
+NED Uncertainty log nu(Hz) 14.65
+Flux Density log nu(Hz) 14.60
+NED Uncertainty log nu(Hz) 14.60
+Flux Density I (AIT)
+NED Uncertainty I (AIT)
+Flux Density log nu(Hz) 14.55
+NED Uncertainty log nu(Hz) 14.55
+Flux Density log nu(Hz) 14.50
+NED Uncertainty log nu(Hz) 14.50
+Flux Density log nu(Hz) 14.45
+NED Uncertainty log nu(Hz) 14.45
+Flux Density log nu(Hz) 14.380
+NED Uncertainty log nu(Hz) 14.380
+Flux Density J (Mt. Lemmon)
+NED Uncertainty J (Mt. Lemmon)
+Flux Density J (CIT)
+NED Uncertainty J (CIT)
+Flux Density log nu(Hz) 14.260
+NED Uncertainty log nu(Hz) 14.260
+Flux Density H (CIT)
+NED Uncertainty H (CIT)
+Flux Density log nu(Hz) 14.134
+NED Uncertainty log nu(Hz) 14.134
+Flux Density K (CIT)
+NED Uncertainty K (CIT)
+Flux Density log nu(Hz) 13.934
+NED Uncertainty log nu(Hz) 13.934
+Flux Density L (Mt. Lemmon)
+NED Uncertainty L (Mt. Lemmon)
+Flux Density 6.7 microns (ISO)
+NED Uncertainty 6.7 microns (ISO)
+Flux Density log nu(Hz) 13.48
+NED Uncertainty log nu(Hz) 13.48
+Flux Density [O I] (ISO)
+NED Uncertainty [O I] (ISO)
+Flux Density 375 GHz
+NED Uncertainty 375 GHz
+Flux Density 300 GHz (Hale)
+NED Uncertainty 300 GHz (Hale)
+Flux Density 270 GHz
+NED Uncertainty 270 GHz
+Flux Density CO(2-1) (IRAM)
+NED Uncertainty CO(2-1) (IRAM)
+Flux Density 215 GHz (VLBI)
+NED Uncertainty 215 GHz (VLBI)
+Flux Density 150 GHz
+NED Uncertainty 150 GHz
+Flux Density 89600 MHz
+NED Uncertainty 89600 MHz
+Flux Density 87.3 GHz (FCRAO)
+NED Uncertainty 87.3 GHz (FCRAO)
+Flux Density 43.2 GHz (VLBA)
+NED Uncertainty 43.2 GHz (VLBA)
+Flux Density 14 GHz
+NED Uncertainty 14 GHz
+Flux Density 8.44 GHz (VLA)
+NED Uncertainty 8.44 GHz (VLA)
+Flux Density 8 GHz
+NED Uncertainty 8 GHz
+Flux Density 0.5-10 keV (Swift)
+NED Uncertainty 0.5-10 keV (Swift)
+Flux Density 599.28 MHz (GMRT)
+NED Uncertainty 599.28 MHz (GMRT)
+Flux Density 968 MHz
+NED Uncertainty 968 MHz
+Flux Density 966 MHz
+NED Uncertainty 966 MHz
+Flux Density r' (Palomar) AB
+NED Uncertainty r' (Palomar) AB
+Flux Density U_aper_ (INT/WFC)
+NED Uncertainty U_aper_ (INT/WFC)
+Flux Density g'_aper_ (INT/WFC)
+NED Uncertainty g'_aper_ (INT/WFC)
+Flux Density r'_tot_ (INT/WFC)
+NED Uncertainty r'_tot_ (INT/WFC)
+Flux Density r'_aper_ (INT/WFC)
+NED Uncertainty r'_aper_ (INT/WFC)
+Flux Density i'_aper_ (INT/WFC)
+NED Uncertainty i'_aper_ (INT/WFC)
+Flux Density Z_aper_ (INT/WFC)
+NED Uncertainty Z_aper_ (INT/WFC)
+Flux Density 43.4 GHz (VLA)
+NED Uncertainty 43.4 GHz (VLA)
+Flux Density 15 microns (ISO)
+NED Uncertainty 15 microns (ISO)
+Flux Density K (2MASS)
+NED Uncertainty K (2MASS)
+Flux Density 0.1-2.4 keV (XMM)
+NED Uncertainty 0.1-2.4 keV (XMM)
+Flux Density 43.34 GHz (VLA)
+NED Uncertainty 43.34 GHz (VLA)
+Flux Density 22.46 GHz (VLA)
+NED Uncertainty 22.46 GHz (VLA)
+Flux Density 15.2 GHz (Ryle)
+NED Uncertainty 15.2 GHz (Ryle)
+Flux Density 8.46 GHz (VLA)
+NED Uncertainty 8.46 GHz (VLA)
+Flux Density Z (UKIRT/UFTI)
+NED Uncertainty Z (UKIRT/UFTI)
+Flux Density J (UKIRT/IRCAM)
+NED Uncertainty J (UKIRT/IRCAM)
+Flux Density H (UKIRT/IRCAM)
+NED Uncertainty H (UKIRT/IRCAM)
+Flux Density K (UKIRT/UFTI)
+NED Uncertainty K (UKIRT/UFTI)
+Flux Density K (UKIRT/IRCAM)
+NED Uncertainty K (UKIRT/IRCAM)
+Flux Density m (POSS-I E)
+NED Uncertainty m (POSS-I E)
+Flux Density 5.0 GHz
+NED Uncertainty 5.0 GHz
+Flux Density 1.4 GHz
+NED Uncertainty 1.4 GHz
+Flux Density 0.408 GHz
+NED Uncertainty 0.408 GHz
+Flux Density [Ne V] 3425 (SDSS)
+NED Uncertainty [Ne V] 3425 (SDSS)
+Flux Density [O II] doublet SDSS
+NED Uncertainty [O II] doublet SDSS
+Flux Density [Ne III] 3870 (SDSS)
+NED Uncertainty [Ne III] 3870 (SDSS)
+Flux Density H{gamma} (SDSS)
+NED Uncertainty H{gamma} (SDSS)
+Flux Density [O III] 4363 (SDSS)
+NED Uncertainty [O III] 4363 (SDSS)
+Flux Density [O III] 4959 (SDSS)
+NED Uncertainty [O III] 4959 (SDSS)
+Flux Density [O I] 6300 (SDSS)
+NED Uncertainty [O I] 6300 (SDSS)
+Flux Density [N II] 6548 (SDSS)
+NED Uncertainty [N II] 6548 (SDSS)
+Flux Density [N II] 6584 (SDSS)
+NED Uncertainty [N II] 6584 (SDSS)
+Flux Density [S II] 6716 (SDSS)
+NED Uncertainty [S II] 6716 (SDSS)
+Flux Density 1.6 GHz (MERLIN)
+NED Uncertainty 1.6 GHz (MERLIN)
+Flux Density 1.408 GHz (MERLIN)
+NED Uncertainty 1.408 GHz (MERLIN)
+Flux Density r (SDSS fibre) AB
+NED Uncertainty r (SDSS fibre) AB
+Flux Density 1412 MHz (WSRT)
+NED Uncertainty 1412 MHz (WSRT)
+Flux Density 327 MHz (WSRT)
+NED Uncertainty 327 MHz (WSRT)
+Flux Density 1.2 mm (MAMBO)
+NED Uncertainty 1.2 mm (MAMBO)
+Flux Density m_p
+NED Uncertainty m_p
+Flux Density CCD grism r_4
+NED Uncertainty CCD grism r_4
+Flux Density 0.5-2 keV (ROSAT)
+NED Uncertainty 0.5-2 keV (ROSAT)
+Flux Density V (NAOC)
+NED Uncertainty V (NAOC)
+Flux Density 700.02 MHz (GBT)
+NED Uncertainty 700.02 MHz (GBT)
+Flux Density 336.4 MHz (GMRT)
+NED Uncertainty 336.4 MHz (GMRT)
+Flux Density V (OAN)
+NED Uncertainty V (OAN)
+Flux Density 2.0-10 keV (HEAO-1)
+NED Uncertainty 2.0-10 keV (HEAO-1)
+Flux Density 320.2 MHz (GMRT)
+NED Uncertainty 320.2 MHz (GMRT)
+Flux Density B (SAO RAS)
+NED Uncertainty B (SAO RAS)
+Flux Density R (SAO RAS)
+NED Uncertainty R (SAO RAS)
+Flux Density 1.4 GHz (GMRT)
+NED Uncertainty 1.4 GHz (GMRT)
+Flux Density i (SDSS) AB
+NED Uncertainty i (SDSS) AB
+Flux Density i (HST/F775W) AB
+NED Uncertainty i (HST/F775W) AB
+Flux Density 1.4 GHz (DRAO)
+NED Uncertainty 1.4 GHz (DRAO)
+Flux Density UVW2 (Swift/UVOT)
+NED Uncertainty UVW2 (Swift/UVOT)
+Flux Density UVM2 (Swift/UVOT)
+NED Uncertainty UVM2 (Swift/UVOT)
+Flux Density UVW1 (Swift/UVOT)
+NED Uncertainty UVW1 (Swift/UVOT)
+Flux Density U (Swift/UVOT)
+NED Uncertainty U (Swift/UVOT)
+Flux Density B (Swift/UVOT)
+NED Uncertainty B (Swift/UVOT)
+Flux Density V (Swift/UVOT)
+NED Uncertainty V (Swift/UVOT)
+Flux Density 4.8 GHz (VLBA)
+NED Uncertainty 4.8 GHz (VLBA)
+Flux Density 38 MHz (8C)
+NED Uncertainty 38 MHz (8C)
+Flux Density 92 cm (WENSS)
+NED Uncertainty 92 cm (WENSS)
+Flux Density 325 MHz (WSRT)
+NED Uncertainty 325 MHz (WSRT)
+Flux Density 6 microns (IRS)
+NED Uncertainty 6 microns (IRS)
+Flux Density 20 cm (VLA)
+NED Uncertainty 20 cm (VLA)
+Flux Density 1.6 GHz (EVN)
+NED Uncertainty 1.6 GHz (EVN)
+Flux Density 324.5 MHz (VLA)
+NED Uncertainty 324.5 MHz (VLA)
+Flux Density 3 microns (Spitzer)
+NED Uncertainty 3 microns (Spitzer)
+Flux Density 5 microns (Spitzer)
+NED Uncertainty 5 microns (Spitzer)
+Flux Density 10 microns (Spitzer)
+NED Uncertainty 10 microns (Spitzer)
+Flux Density 1425 MHz (VLBA)
+NED Uncertainty 1425 MHz (VLBA)
+Flux Density 230 MHz (GMRT)
+NED Uncertainty 230 MHz (GMRT)
+Flux Density 8 GHz (VLBA)
+NED Uncertainty 8 GHz (VLBA)
+Flux Density B_J (POSS)
+NED Uncertainty B_J (POSS)
+Flux Density 4.0-8 keV (Chandra)
+NED Uncertainty 4.0-8 keV (Chandra)
+Flux Density 4-8 keV (Chandra)
+NED Uncertainty 4-8 keV (Chandra)
+Flux Density 2.0-8 keV (Chandra)
+NED Uncertainty 2.0-8 keV (Chandra)
+Flux Density 2.0-4 keV (Chandra)
+NED Uncertainty 2.0-4 keV (Chandra)
+Flux Density 1.0-2 keV (Chandra)
+NED Uncertainty 1.0-2 keV (Chandra)
+Flux Density 0.5-1 keV (Chandra)
+NED Uncertainty 0.5-1 keV (Chandra)
+Flux Density 8.5 GHz
+NED Uncertainty 8.5 GHz
+Flux Density B (Subaru) AB
+NED Uncertainty B (Subaru) AB
+Flux Density V (Subaru) AB
+NED Uncertainty V (Subaru) AB
+Flux Density R (Subaru) AB
+NED Uncertainty R (Subaru) AB
+Flux Density i' (Subaru) AB
+NED Uncertainty i' (Subaru) AB
+Flux Density z' (Subaru) AB
+NED Uncertainty z' (Subaru) AB
+Flux Density B (CFHT/CFH12K) AB
+NED Uncertainty B (CFHT/CFH12K) AB
+Flux Density B (CFHT) AB
+NED Uncertainty B (CFHT) AB
+Flux Density V (CFHT/CFH12K) AB
+NED Uncertainty V (CFHT/CFH12K) AB
+Flux Density R (CFHT/CFH12K) AB
+NED Uncertainty R (CFHT/CFH12K) AB
+Flux Density i' (CFHT) AB
+NED Uncertainty i' (CFHT) AB
+Flux Density I (CFHT) AB
+NED Uncertainty I (CFHT) AB
+Flux Density I (CFHT/CFH12K) AB
+NED Uncertainty I (CFHT/CFH12K) AB
+Flux Density g' (INT)
+NED Uncertainty g' (INT)
+Flux Density r' (INT)
+NED Uncertainty r' (INT)
+Flux Density i' (INT)
+NED Uncertainty i' (INT)
+Flux Density u* (CFHT/Megacam) AB
+NED Uncertainty u* (CFHT/Megacam) AB
+Flux Density g' (CFHT)
+NED Uncertainty g' (CFHT)
+Flux Density g' (CFHT/Megacam) AB
+NED Uncertainty g' (CFHT/Megacam) AB
+Flux Density r' (CFHT/Megacam) AB
+NED Uncertainty r' (CFHT/Megacam) AB
+Flux Density R (CTIO)
+NED Uncertainty R (CTIO)
+Flux Density i' (CFHT/Megacam) AB
+NED Uncertainty i' (CFHT/Megacam) AB
+Flux Density z' (CFHT/Megacam) AB
+NED Uncertainty z' (CFHT/Megacam) AB
+Flux Density z' (CTIO)
+NED Uncertainty z' (CTIO)
+Flux Density J (CFHT/WIRCam) AB
+NED Uncertainty J (CFHT/WIRCam) AB
+Flux Density H (CFHT/WIRCam) AB
+NED Uncertainty H (CFHT/WIRCam) AB
+Flux Density K_s (LCO)
+NED Uncertainty K_s (LCO)
+Flux Density K_s (CFHT/WIRCam) AB
+NED Uncertainty K_s (CFHT/WIRCam) AB
+Flux Density 3.6 microns IRAC AB
+NED Uncertainty 3.6 microns IRAC AB
+Flux Density 4.5 microns IRAC AB
+NED Uncertainty 4.5 microns IRAC AB
+Flux Density 5.8 microns IRAC AB
+NED Uncertainty 5.8 microns IRAC AB
+Flux Density 8.0 microns IRAC AB
+NED Uncertainty 8.0 microns IRAC AB
+Flux Density 24 microns (MIPS) AB
+NED Uncertainty 24 microns (MIPS) AB
+Flux Density 250 microns (SPIRE)
+NED Uncertainty 250 microns (SPIRE)
+Flux Density U (ESO/WFI) AB
+NED Uncertainty U (ESO/WFI) AB
+Flux Density 0.2-12 keV (XMM)
+NED Uncertainty 0.2-12 keV (XMM)
+Flux Density FUV_max (GALEX)
+NED Uncertainty FUV_max (GALEX)
+Flux Density NUV_max (GALEX)
+NED Uncertainty NUV_max (GALEX)
+Flux Density b_J
+NED Uncertainty b_J
+Flux Density J (2MASS/CTIO)
+NED Uncertainty J (2MASS/CTIO)
+Flux Density H (2MASS/CTIO)
+NED Uncertainty H (2MASS/CTIO)
+Flux Density K_s (2MASS/CTIO)
+NED Uncertainty K_s (2MASS/CTIO)
+Flux Density 500 microns (SPIRE)
+NED Uncertainty 500 microns (SPIRE)
+Flux Density 350 microns (SPIRE)
+NED Uncertainty 350 microns (SPIRE)
+Flux Density J (ESO/NTT) AB
+NED Uncertainty J (ESO/NTT) AB
+Flux Density K (ESO/NTT) AB
+NED Uncertainty K (ESO/NTT) AB
+Flux Density u* (CFHT) AB
+NED Uncertainty u* (CFHT) AB
+Flux Density g' (CFHT) AB
+NED Uncertainty g' (CFHT) AB
+Flux Density r' (CFHT) AB
+NED Uncertainty r' (CFHT) AB
+Flux Density z' (CFHT) AB
+NED Uncertainty z' (CFHT) AB
+Flux Density U
+NED Uncertainty U
+Flux Density B
+NED Uncertainty B
+Flux Density 20 GHz (ATCA)
+NED Uncertainty 20 GHz (ATCA)
+Flux Density 8400 MHz
+NED Uncertainty 8400 MHz
+Flux Density Y (UKIDSS)
+NED Uncertainty Y (UKIDSS)
+Flux Density J (UKIDSS)
+NED Uncertainty J (UKIDSS)
+Flux Density H (UKIDSS)
+NED Uncertainty H (UKIDSS)
+Flux Density K (UKIDSS)
+NED Uncertainty K (UKIDSS)
+Flux Density 3.9 GHz (RATAN)
+NED Uncertainty 3.9 GHz (RATAN)
+Flux Density Y (UKIRT)
+NED Uncertainty Y (UKIRT)
+Flux Density J (UKIRT)
+NED Uncertainty J (UKIRT)
+Flux Density H (UKIRT)
+NED Uncertainty H (UKIRT)
+Flux Density 250 GHz (MAMBO)
+NED Uncertainty 250 GHz (MAMBO)
+Flux Density 5-10 keV (XMM)
+NED Uncertainty 5-10 keV (XMM)
+Flux Density i (CFHT) AB
+NED Uncertainty i (CFHT) AB
+Flux Density 0.5-10 keV (Chandra)
+NED Uncertainty 0.5-10 keV (Chandra)
+Flux Density F814W (HST) AB
+NED Uncertainty F814W (HST) AB
+Flux Density I (HST) AB
+NED Uncertainty I (HST) AB
+Flux Density 100 microns (PACS)
+NED Uncertainty 100 microns (PACS)
+Flux Density 160 microns (PACS)
+NED Uncertainty 160 microns (PACS)
+Flux Density 7.6 cm (RATAN)
+NED Uncertainty 7.6 cm (RATAN)
+Flux Density H{beta} line
+NED Uncertainty H{beta} line
+Flux Density H{alpha} line
+NED Uncertainty H{alpha} line
+Flux Density 5-10 keV (Chandra)
+NED Uncertainty 5-10 keV (Chandra)
+Flux Density R (CFHT) AB
+NED Uncertainty R (CFHT) AB
+Flux Density 2.5-8 keV (Chandra)
+NED Uncertainty 2.5-8 keV (Chandra)
+Flux Density 0.3-2.5 keV Chandra
+NED Uncertainty 0.3-2.5 keV Chandra
+Flux Density r' (KPNO/MOSAIC)
+NED Uncertainty r' (KPNO/MOSAIC)
+Flux Density r (KPNO) AB
+NED Uncertainty r (KPNO) AB
+Flux Density U (KPNO) AB
+NED Uncertainty U (KPNO) AB
+Flux Density B (HST/ACS) AB
+NED Uncertainty B (HST/ACS) AB
+Flux Density G (KECK) AB
+NED Uncertainty G (KECK) AB
+Flux Density F606W (HST/ACS) AB
+NED Uncertainty F606W (HST/ACS) AB
+Flux Density V (HST/ACS) AB
+NED Uncertainty V (HST/ACS) AB
+Flux Density R (Keck II) AB
+NED Uncertainty R (Keck II) AB
+Flux Density R (KECK) AB
+NED Uncertainty R (KECK) AB
+Flux Density R (WHT)
+NED Uncertainty R (WHT)
+Flux Density i (HST/ACS) AB
+NED Uncertainty i (HST/ACS) AB
+Flux Density F775W (HST/ACS) AB
+NED Uncertainty F775W (HST/ACS) AB
+Flux Density I (Subaru) AB
+NED Uncertainty I (Subaru) AB
+Flux Density F850LP (HST/ACS) AB
+NED Uncertainty F850LP (HST/ACS) AB
+Flux Density z (HST/ACS) AB
+NED Uncertainty z (HST/ACS) AB
+Flux Density F850LP (HST)
+NED Uncertainty F850LP (HST)
+Flux Density J (WIRC) AB
+NED Uncertainty J (WIRC) AB
+Flux Density HK' (QUIRC) AB
+NED Uncertainty HK' (QUIRC) AB
+Flux Density HK' (UH) AB
+NED Uncertainty HK' (UH) AB
+Flux Density K_s (WIRC) AB
+NED Uncertainty K_s (WIRC) AB
+Flux Density K AB
+NED Uncertainty K AB
+Flux Density N4 (AKARI)
+NED Uncertainty N4 (AKARI)
+Flux Density S11 (AKARI)
+NED Uncertainty S11 (AKARI)
+Flux Density 11 microns (AKARI)
+NED Uncertainty 11 microns (AKARI)
+Flux Density 16 microns (IRS)
+NED Uncertainty 16 microns (IRS)
+Flux Density 18 microns (AKARI)
+NED Uncertainty 18 microns (AKARI)
+Flux Density L18W (AKARI)
+NED Uncertainty L18W (AKARI)
+Flux Density 2 keV (Chandra)
+NED Uncertainty 2 keV (Chandra)
+Flux Density i (PAN-STARRS1) AB
+NED Uncertainty i (PAN-STARRS1) AB
+Flux Density z (PAN-STARRS1) AB
+NED Uncertainty z (PAN-STARRS1) AB
+Flux Density y (PAN-STARRS1) AB
+NED Uncertainty y (PAN-STARRS1) AB
+Flux Density J (Kitt Peak)
+NED Uncertainty J (Kitt Peak)
+Flux Density 250 GHz (IRAM)
+NED Uncertainty 250 GHz (IRAM)
+Flux Density CO(2-1) (EVLA)
+NED Uncertainty CO(2-1) (EVLA)
+Flux Density F775W (HST) AB
+NED Uncertainty F775W (HST) AB
+Flux Density F850LP (HST) AB
+NED Uncertainty F850LP (HST) AB
+Flux Density H (Subaru)
+NED Uncertainty H (Subaru)
+Flux Density K' (Subaru)
+NED Uncertainty K' (Subaru)
+Flux Density 16 microns (Spitzer)
+NED Uncertainty 16 microns (Spitzer)
+Flux Density 22 microns (Spitzer)
+NED Uncertainty 22 microns (Spitzer)
+Flux Density 350 microns SHARC II
+NED Uncertainty 350 microns SHARC II
+Flux Density CO(6-5) (PdBI)
+NED Uncertainty CO(6-5) (PdBI)
+Flux Density CO(3-2) (PdBI)
+NED Uncertainty CO(3-2) (PdBI)
+Flux Density 1280 A (AB)
+NED Uncertainty 1280 A (AB)
+Flux Density z (SDSS) AB
+NED Uncertainty z (SDSS) AB
+Flux Density CO(6-5) (MAMBO)
+NED Uncertainty CO(6-5) (MAMBO)
+Flux Density B_w (NOAO)
+NED Uncertainty B_w (NOAO)
+Flux Density R (NOAO)
+NED Uncertainty R (NOAO)
+Flux Density I (NOAO)
+NED Uncertainty I (NOAO)
+Flux Density K_s (KPNO)
+NED Uncertainty K_s (KPNO)
+Flux Density 1.4 GHz (VLBA)
+NED Uncertainty 1.4 GHz (VLBA)
+Flux Density i (APO) AB
+NED Uncertainty i (APO) AB
+Flux Density z (APO) AB
+NED Uncertainty z (APO) AB
+Flux Density J (MMT)
+NED Uncertainty J (MMT)
+Flux Density H (MMT)
+NED Uncertainty H (MMT)
+Flux Density K (Keck)
+NED Uncertainty K (Keck)
+Flux Density K (VLT)
+NED Uncertainty K (VLT)
+Flux Density C IV line (VLT)
+NED Uncertainty C IV line (VLT)
+Flux Density Mg II line (VLT)
+NED Uncertainty Mg II line (VLT)
+Flux Density Fe II line (VLT)
+NED Uncertainty Fe II line (VLT)
+Flux Density F850LP (HST/ACS)
+NED Uncertainty F850LP (HST/ACS)
+Flux Density J (Magellan)
+NED Uncertainty J (Magellan)
+Flux Density Ly{alpha} (Subaru)
+NED Uncertainty Ly{alpha} (Subaru)
+Flux Density N V 1240 (Subaru)
+NED Uncertainty N V 1240 (Subaru)
+Flux Density C IV 1549 (Subaru)
+NED Uncertainty C IV 1549 (Subaru)
+Flux Density He II 1640 (Subaru)
+NED Uncertainty He II 1640 (Subaru)
+Flux Density 70 microns (PACS)
+NED Uncertainty 70 microns (PACS)
+Flux Density Ly{alpha} (WHT)
+NED Uncertainty Ly{alpha} (WHT)
+Flux Density u' (INT) AB
+NED Uncertainty u' (INT) AB
+Flux Density g' (INT) AB
+NED Uncertainty g' (INT) AB
+Flux Density r' (INT) AB
+NED Uncertainty r' (INT) AB
+Flux Density i' (INT) AB
+NED Uncertainty i' (INT) AB
+Flux Density z' (INT) AB
+NED Uncertainty z' (INT) AB
+Flux Density [O II] 3727 (Subaru)
+NED Uncertainty [O II] 3727 (Subaru)
+Flux Density r_petro (SDSS) AB
+NED Uncertainty r_petro (SDSS) AB
+Flux Density u (2QZ Equatorial)
+NED Uncertainty u (2QZ Equatorial)
+Flux Density b_J (2QZ Equatorial)
+NED Uncertainty b_J (2QZ Equatorial)
+Flux Density r (2QZ Equatorial)
+NED Uncertainty r (2QZ Equatorial)
+Flux Density [O II] doublet (VLT)
+NED Uncertainty [O II] doublet (VLT)
+Flux Density [Ne III] 3869 (VLT)
+NED Uncertainty [Ne III] 3869 (VLT)
+Flux Density H{delta} 4101 (VLT)
+NED Uncertainty H{delta} 4101 (VLT)
+Flux Density H{beta} 4861 (VLT)
+NED Uncertainty H{beta} 4861 (VLT)
+Flux Density [O III] 5007 (VLT)
+NED Uncertainty [O III] 5007 (VLT)
+Flux Density H{gamma} 4340 (VLT)
+NED Uncertainty H{gamma} 4340 (VLT)
+Flux Density [O III] 4959 (VLT)
+NED Uncertainty [O III] 4959 (VLT)
+Flux Density i+ (CFHT) AB
+NED Uncertainty i+ (CFHT) AB
+Flux Density g (SDSS) AB
+NED Uncertainty g (SDSS) AB
+Flux Density [C IV] doublet (APO)
+NED Uncertainty [C IV] doublet (APO)
+Flux Density [O III] (APO)
+NED Uncertainty [O III] (APO)
+Flux Density H{alpha} (Subaru)
+NED Uncertainty H{alpha} (Subaru)
+Flux Density NB816 (Subaru) AB
+NED Uncertainty NB816 (Subaru) AB
+Flux Density U (Johnson) AB
+NED Uncertainty U (Johnson) AB
+Flux Density B (Johnson) AB
+NED Uncertainty B (Johnson) AB
+Flux Density V (Johnson) AB
+NED Uncertainty V (Johnson) AB
+Flux Density I (Johnson) AB
+NED Uncertainty I (Johnson) AB
+Flux Density J (VIRCAM) AB
+NED Uncertainty J (VIRCAM) AB
+Flux Density K_s (VIRCAM) AB
+NED Uncertainty K_s (VIRCAM) AB
+Flux Density NUV (GALXEX) AB
+NED Uncertainty NUV (GALXEX) AB
+Flux Density H{alpha} (VLT)
+NED Uncertainty H{alpha} (VLT)
+Flux Density [N II] 6584 (VLT)
+NED Uncertainty [N II] 6584 (VLT)
+Flux Density FUV (GALXEX) AB
+NED Uncertainty FUV (GALXEX) AB
+Flux Density H{beta} (VLT)
+NED Uncertainty H{beta} (VLT)
+Flux Density i (CFHT)
+NED Uncertainty i (CFHT)
+Flux Density 350 GHz (ALMA)
+NED Uncertainty 350 GHz (ALMA)
+Flux Density K_s (CFHT)
+NED Uncertainty K_s (CFHT)
+Flux Density 324 MHz (VLA)
+NED Uncertainty 324 MHz (VLA)
+Flux Density i+ (Subaru) AB
+NED Uncertainty i+ (Subaru) AB
+Flux Density H{beta} (Keck II)
+NED Uncertainty H{beta} (Keck II)
+Flux Density H{alpha} (Keck II)
+NED Uncertainty H{alpha} (Keck II)
+Flux Density N396/12 (ESO) AB
+NED Uncertainty N396/12 (ESO) AB
+Flux Density F160W (HST) AB
+NED Uncertainty F160W (HST) AB
+Flux Density 1.20 mm (MAMBO)
+NED Uncertainty 1.20 mm (MAMBO)
+Flux Density K_s (VLT)
+NED Uncertainty K_s (VLT)
+Flux Density [C II] 158 (CSO)
+NED Uncertainty [C II] 158 (CSO)
+Flux Density 244.603 GHz (IRAM)
+NED Uncertainty 244.603 GHz (IRAM)
+Flux Density 203.850 GHz (IRAM)
+NED Uncertainty 203.850 GHz (IRAM)
+Flux Density 163.088 GHz (IRAM)
+NED Uncertainty 163.088 GHz (IRAM)
+Flux Density 81.551 GHz (IRAM)
+NED Uncertainty 81.551 GHz (IRAM)
+Flux Density [OII] 3727 (VIRUS-P)
+NED Uncertainty [OII] 3727 (VIRUS-P)
+Flux Density [NeIII] 3869 VIRUS-P
+NED Uncertainty [NeIII] 3869 VIRUS-P
+Flux Density H{gamma} (VIRUS-P)
+NED Uncertainty H{gamma} (VIRUS-P)
+Flux Density H{beta} (VIRUS-P)
+NED Uncertainty H{beta} (VIRUS-P)
+Flux Density Ly{alpha} (VIRUS-P)
+NED Uncertainty Ly{alpha} (VIRUS-P)
+Flux Density r (Subaru) AB
+NED Uncertainty r (Subaru) AB
+Flux Density H (KPNO) AB
+NED Uncertainty H (KPNO) AB
+Flux Density K (KPNO) AB
+NED Uncertainty K (KPNO) AB
+Flux Density [OIII] 5007 VIRUS-P
+NED Uncertainty [OIII] 5007 VIRUS-P
+Flux Density 890 microns (SMA)
+NED Uncertainty 890 microns (SMA)
+Flux Density 1.1 mm (JCMT)
+NED Uncertainty 1.1 mm (JCMT)
+Flux Density 350 microns (CSO)
+NED Uncertainty 350 microns (CSO)
+Flux Density 3 mm (CARMA)
+NED Uncertainty 3 mm (CARMA)
+Flux Density 345 GHz (SMA)
+NED Uncertainty 345 GHz (SMA)
+Flux Density 830 A (Palomar)
+NED Uncertainty 830 A (Palomar)
