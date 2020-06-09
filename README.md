@@ -1,5 +1,5 @@
-# work_notes
-Work notes along with codes and other things.
+# Codes to work with Radio Galaxies
+Work notes along with codes and other things for working with radio galaxies and the surveys/catalogs that contain them.
 
 ## Relevant files
 
